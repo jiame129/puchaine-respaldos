@@ -9,28 +9,28 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "game-no.gl.joinmc.link",
-          "assigned_srv": "game-no.gl.joinmc.link",
+          "assigned_domain": "coming-destroy.gl.joinmc.link",
+          "assigned_srv": "coming-destroy.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "6ef6b76a-51e4-494a-84c5-f31ea17abbbf",
-          "ip_hostname": "23.ip.gl.ply.gg",
+          "id": "b0362ced-fc07-400c-8c73-2a943edd12c2",
+          "ip_hostname": "18.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 31506,
-          "port_start": 31505,
+          "port_end": 46641,
+          "port_start": 46640,
           "region": "global",
-          "static_ip4": "147.185.221.23",
-          "tunnel_ip": "2602:fbaf:0:1::17"
+          "static_ip4": "147.185.221.18",
+          "tunnel_ip": "2602:fbaf:0:1::12"
         },
         "status": "allocated"
       },
-      "created_at": "2024-10-21T13:38:02.119913Z",
+      "created_at": "2024-10-21T23:21:52.997405Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "5842e149-c5c3-45da-b87f-a26d938125d9",
+      "id": "5b8d444e-cda2-4b83-b274-390431c8d93c",
       "name": "Minecraft Java",
       "origin": {
         "data": {
